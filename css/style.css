@@ -5,11 +5,11 @@ body {
     background-color: #F7EEDE;
 }
 
-hr{
+hr {
     border: 1px dotted #07484B;
 }
 
-.title{
+.title {
     color: #F7EEDE;
     text-align: center;
     padding-bottom: 1%;
@@ -97,11 +97,11 @@ p {
 }
 
 .resume-heading,
-.title{
+.title {
     font-style: italic;
 }
 
-.clips{
+.clips {
     text-align: center;
     color: #F7EEDE;
     background-color: #45210D;
@@ -109,7 +109,7 @@ p {
 
 .clips h5,
 .clips h6,
-.clips p{
+.clips p {
     text-align: center;
     color: #F7EEDE;
     background-color: #45210D;
@@ -118,14 +118,14 @@ p {
 
 }
 
-.clips a{
+.clips a {
     text-align: center;
     color: #F7EEDE;
     padding-right: 1%;
     padding-left: 1%;
 }
 
-.footer{
+.footer {
     padding-top: 2%;
     text-align: center;
 }
