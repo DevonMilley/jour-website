@@ -1,0 +1,97 @@
+21/*FULL SITE*/
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+h1,
+.title {
+    color: #07484B;
+    text-align: center;
+    padding-bottom: 1%;
+    padding-top: 2%;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+}
+
+h1,
+h2,
+h4 {
+    font-weight: bold;
+}
+
+.custom-nav,
+.clips .custom-button {
+    background-color: #DCB2A8;
+}
+
+.custom-nav a {
+    color: #07484B;
+}
+
+
+.bio {
+    background-color: #E2BFB6;
+    margin-bottom: 4%;
+    padding-left: 1%;
+}
+
+.contact,
+.contact a {
+    text-align: center;
+    color: #7E8B81;
+    text-decoration: none;
+    line-height: 1.5;
+}
+
+.contact a {
+    text-decoration: underline;
+}
+
+.biotext {
+    line-height: 2;
+    color: #7E8B81;
+}
+
+
+h2 {
+    color: #55917F;
+}
+
+.date {
+    text-align: right;
+    color: #7E8B81;
+}
+
+h5,
+ul,
+h4,
+p {
+    color: #7E8B81;
+}
+
+.resume h1 {
+    padding-top: 2%;
+    padding-bottom: 2%;
+
+}
+
+
+.clips,
+.clips h5,
+.clips h6,
+.clips p,
+.clips a {
+    text-align: center;
+    color: #07484B;
+    background-color: #55917F;
+
+}
+
+.custom-button {
+    margin-bottom: 6%;
+}
+
+/*comment*/
