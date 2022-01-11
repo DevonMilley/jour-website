@@ -9,9 +9,14 @@ hr{
     border: 1px dotted #07484B;
 }
 
+.title{
+    color: #F7EEDE;
+    text-align: center;
+    padding-bottom: 1%;
+    padding-top: 2%;
+}
 
-h1,
-.title {
+h1 {
     color: #07484B;
     text-align: center;
     padding-bottom: 1%;
@@ -27,8 +32,13 @@ h2 {
     font-weight: bold;
 }
 
+.custom-button {
+    margin-bottom: 6%;
+    background-color: #07484B;
+}
+
 .custom-nav,
-.clips .custom-button {
+.clips {
     background-color: #45210d;
 }
 
@@ -86,23 +96,38 @@ p {
 
 }
 
-.resume-heading{
+.resume-heading,
+.title{
     font-style: italic;
 }
 
-.clips,
+.clips{
+    text-align: center;
+    color: #F7EEDE;
+    background-color: #45210D;
+}
+
 .clips h5,
 .clips h6,
-.clips p,
-.clips a {
+.clips p{
     text-align: center;
-    color: #07484B;
-    background-color: #55917F;
+    color: #F7EEDE;
+    background-color: #45210D;
+    padding-right: 1%;
+    padding-left: 1%;
 
 }
 
-.custom-button {
-    margin-bottom: 6%;
+.clips a{
+    text-align: center;
+    color: #F7EEDE;
+    padding-right: 1%;
+    padding-left: 1%;
+}
+
+.footer{
+    padding-top: 2%;
+    text-align: center;
 }
 
 /*comment*/
