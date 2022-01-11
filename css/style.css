@@ -1,7 +1,8 @@
-21/*FULL SITE*/
+/*FULL SITE*/
 
 body {
     font-family: 'Raleway', sans-serif;
+    background-color: #F7EEDE;
 }
 
 h1,
@@ -17,31 +18,31 @@ h1 {
 }
 
 h1,
-h2,
-h4 {
+h2 {
     font-weight: bold;
 }
 
 .custom-nav,
 .clips .custom-button {
-    background-color: #DCB2A8;
+    background-color: #45210d;
 }
 
 .custom-nav a {
-    color: #07484B;
+    color: #F7EEDE;
 }
 
 
 .bio {
-    background-color: #E2BFB6;
+    background-color: #45210d;
     margin-bottom: 4%;
     padding-left: 1%;
 }
 
+
 .contact,
 .contact a {
     text-align: center;
-    color: #7E8B81;
+    color: #45210D;
     text-decoration: none;
     line-height: 1.5;
 }
@@ -52,7 +53,8 @@ h4 {
 
 .biotext {
     line-height: 2;
-    color: #7E8B81;
+    color: #F7EEDE;
+    font-weight: normal;
 }
 
 
@@ -69,8 +71,13 @@ h5,
 ul,
 h4,
 p {
-    color: #7E8B81;
+    color: #45210D;
 }
+
+hr{
+    border: 1px dotted #07484B;
+}
+
 
 .resume h1 {
     padding-top: 2%;
